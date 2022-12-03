@@ -59,7 +59,7 @@ global.ppulsa = '087833306677' //Xl
 global.psaweria = 'https://saweria.com/amelcanss' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895351308611' //Nomor Bot
+global.nomorbot = '6287852161042' //Nomor Bot
 global.nomorown = '087833306677' //Nomor Owner
 global.namebot = 'FAHIL BOTz' //Nama Bot
 global.nameown = 'fahil' // Nama Owner
