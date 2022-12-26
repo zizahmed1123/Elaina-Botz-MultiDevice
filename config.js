@@ -1,11 +1,11 @@
-// S C R I P T  O R I  B Y  Bochilgaming 🔭
+// S C R I P T  O R I  B Y  RIUMA BOT🔭
 // Ditulis Ulang Oleh ImYanXiao
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
 // • Nurutomo
-// • Bochilgaming
+// • RIUMA BOT
 // • Rominaru
 // • Kannachann
 // • FahriAdison
@@ -59,10 +59,10 @@ global.ppulsa = '087833306677' //Xl
 global.psaweria = 'https://saweria.com/RellzFvnkyy' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285876138954' //Nomor Bot
-global.nomorown = '84352438984' //Nomor Owner
-global.namebot = 'Fvnkyy BOTz' //Nama Bot
-global.nameown = 'Rellz' // Nama Owner
+global.nomorbot = '393278169630' //Nomor Bot
+global.nomorown = '393516093315' //Nomor Owner
+global.namebot = 'RIUMA BOT' //Nama Bot
+global.nameown = 'Ahmed Zizo' // Nama Owner
 
 
 /*============== STAFF ==============*/
